@@ -47,12 +47,7 @@ flutter_launcher_icons:
   image_path: "assets/images/symbol.png"
   min_sdk_android: 21
   background_color: "#000000"
-flutter_native_splash:
-  color: "#000000"
-  image: "assets/images/symbol.png"
-  android_12:
-    image: "assets/images/symbol.png"
-  adaptive_icon_background: "#000000"
+
 
 flutter:
   uses-material-design: true
